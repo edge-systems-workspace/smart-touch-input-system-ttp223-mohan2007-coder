@@ -52,7 +52,7 @@ void loop() {
     // If touch detected (HIGH)
     //     Print "Touch Detected"
     // Else
-    //     Print "No Touch"
+    //     Print "NoTouch"
 
     // TODO 8:
 }
