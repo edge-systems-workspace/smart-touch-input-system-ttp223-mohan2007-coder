@@ -37,7 +37,7 @@ void setup() {
 void loop() {
 
     // TODO 6:
-    // Read digital value from touch sensor
+    // Read digital value from touch senso
 
     // TODO 7:
     int state=digitalRead(touch_Pin);
