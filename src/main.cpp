@@ -1,6 +1,6 @@
 #include <Arduino.h>
 /**
- * @file main.ino
+ * @file main.cpp
  * @brief Embedded Touch Detection System using TTP223
  * @author Mohan Sharma
  * @date YYYY-MM-DD
