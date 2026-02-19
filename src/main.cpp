@@ -26,7 +26,7 @@ void setup() {
     // Initialize Serial communication (9600 baud rate)
 
     // TODO 4:
-    // Configure touch pin as INPUT
+    // Configure touch pin as input
     pinMode(touch_Pin,INPUT);
 
     // TODO 5:
